@@ -48,7 +48,7 @@ export default function FrontPage() {
             D.Y. Patil College of Engineering, Akurdi
           </h1>
           <p className="hero-subtitle">Department of Computer Engineering</p>
-          <Link to="/tree" className="hero-button">
+          <Link to="/app" className="hero-button">
             Automated Attainment Calculator
           </Link>
         </div>
